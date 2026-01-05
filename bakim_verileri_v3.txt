@@ -1,0 +1,4 @@
+2026-01-04,07 ANT 001,Lastik Değişimi,10000.0
+2026-01-04,07 BVV  673,Periyodik Bakım,15000.0
+2026-01-05,07 ANT 100,Periyodik Bakım,1000.0
+2026-01-05,54 YC 255,Motor Arızası,100000.0
