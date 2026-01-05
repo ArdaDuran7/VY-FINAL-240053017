@@ -1,9 +1,3 @@
-/*
- * DERS: BPR 151 - Programcılığa Giriş
- * PROJE: Final Ödevi - Araç Bakım Takip Sistemi v3.0 (Uyumlu Sürüm)
- * ÖZELLİKLER: Dosya Kayıt, Canlı Arama, Tarih Ekleme
- */
-
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableRowSorter;
